@@ -1,6 +1,6 @@
 {
   "name": "@nqduy180500/api-chat-viber",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "connect to api chat skye",
   "main": "lib/index.js",
   "scripts": {
